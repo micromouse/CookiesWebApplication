@@ -1,0 +1,13 @@
+﻿@{
+    ViewData["Title"] = "Privacy Policy";
+}
+<h1>@ViewData["Title"]</h1>
+
+<p>Use this page to detail your site's privacy policy.</p>
+<br />
+
+<h2>当前登录用户:@ViewData["UserName"]</h2>
+<form>
+<button asp-action="LogOut" formmethod="post">登出</button>
+<button asp-controller="Account" asp-action="ModifyLoginInfo" formmethod="post">修改登录信息</button>
+</form>

@@ -1,0 +1,35 @@
+﻿@model LoginViewModel
+
+@{
+    ViewData["Title"] = "Cookie认证登录";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Login</h1>
+
+@if (ViewContext.ModelState.IsValid == false) {
+    <div class="alert alert-danger">
+        <strong>Error</strong>
+        <div asp-validation-summary="All" class="danger"></div>
+    </div>
+}
+
+<form asp-controller="Account" autocomplete="off" asp-action="Login">
+    <input type="hidden" asp-for="ReturnUrl" />
+    <fieldset>
+        <div class="form-group">
+            <i class="input-icon user-icon"></i>
+            <input class="custom-form-control" placeholder="Username" asp-for="Username" autofocus>
+        </div>
+        <br />
+        <div class="form-group">
+            <i class="input-icon password-icon"></i>
+            <input type="password" class="custom-form-control" placeholder="Password" asp-for="Password" autocomplete="off">
+        </div>
+        <br />
+        <div class="form-group custom-btn-group">
+            <button class="btn btn-primary custom-btn" name="button" value="login">Login</button>
+            <button class="btn btn-default custom-btn" name="button" value="cancel">Cancel</button>
+        </div>
+    </fieldset>
+</form>
