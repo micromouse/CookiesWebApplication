@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CookiesWebApplication", "CookiesWebApplication\CookiesWebApplication.csproj", "{66338EC0-9E3B-4452-8329-8B1D30E7BE19}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CookiesWebApplication", "CookiesWebApplication\CookiesWebApplication.csproj", "{66338EC0-9E3B-4452-8329-8B1D30E7BE19}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

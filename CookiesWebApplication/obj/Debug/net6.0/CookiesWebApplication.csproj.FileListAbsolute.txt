@@ -7,7 +7,6 @@ E:\mystudys\CookiesWebApplication\CookiesWebApplication\bin\Debug\net6.0\Cookies
 E:\mystudys\CookiesWebApplication\CookiesWebApplication\bin\Debug\net6.0\CookiesWebApplication.dll
 E:\mystudys\CookiesWebApplication\CookiesWebApplication\bin\Debug\net6.0\ref\CookiesWebApplication.dll
 E:\mystudys\CookiesWebApplication\CookiesWebApplication\bin\Debug\net6.0\CookiesWebApplication.pdb
-E:\mystudys\CookiesWebApplication\CookiesWebApplication\obj\Debug\net6.0\CookiesWebApplication.csproj.AssemblyReference.cache
 E:\mystudys\CookiesWebApplication\CookiesWebApplication\obj\Debug\net6.0\CookiesWebApplication.GeneratedMSBuildEditorConfig.editorconfig
 E:\mystudys\CookiesWebApplication\CookiesWebApplication\obj\Debug\net6.0\CookiesWebApplication.AssemblyInfoInputs.cache
 E:\mystudys\CookiesWebApplication\CookiesWebApplication\obj\Debug\net6.0\CookiesWebApplication.AssemblyInfo.cs
@@ -242,3 +241,4 @@ E:\mystudys\CookiesWebApplication\CookiesWebApplication\bin\Debug\net6.0\Microso
 E:\mystudys\CookiesWebApplication\CookiesWebApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
 E:\mystudys\CookiesWebApplication\CookiesWebApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
 E:\mystudys\CookiesWebApplication\CookiesWebApplication\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\mystudys\CookiesWebApplication\CookiesWebApplication\obj\Debug\net6.0\CookiesWebApplication.csproj.AssemblyReference.cache
