@@ -10,11 +10,11 @@
         /// <summary>
         /// 用户名
         /// </summary>
-        public string Username { get; init; } = null!;
+        public string? Username { get; init; }
         /// <summary>
         /// 密码
         /// </summary>
-        public string Password { get; init; }
+        public string? Password { get; init; }
     }
 
 }
